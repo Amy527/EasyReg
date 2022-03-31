@@ -1,0 +1,10 @@
+Package: EasyReg
+Type: Package
+Title: Build different Regression Models 
+Version: 0.1.0
+Author: Yinuo Zhang
+Maintainer: TYinuo Zhang <yourself@somewhere.net>
+Description: Build different Regression Models.
+License: GPL
+Encoding: UTF-8
+LazyData: true
